@@ -1,5 +1,0 @@
-##
-iamzhongyong
-.
-java
-
